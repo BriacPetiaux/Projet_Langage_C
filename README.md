@@ -6,3 +6,5 @@ Attention a avoir toutes les extensions nécéssaire au langage C sur VSCode.
 Les instructions d'utilisation pour les joueurs: Pour bien démarrer le jeu il faut commencer par compiler le programme correctement. Puis vous allez inscrire votre nom, si aucun score n'est présent un nouveau fichier score.txt va se créer, sinon le programme va vérifier si vous avez déjà joué ou non. Vous pouvez jouer à 8 jeux différents, pour arréter de jouer il suffit d'écrire 0 après la question "Quel est votre choix?". Pour éviter toutes erreurs, nous avons réussi à créer une fonction qui à chaque réponses érifie le type de la réponse et redemmande la question si la réponse n'est pas un entier.
 
 Des informations pour les développeurs souhaitant contribuer au projet: Nous pouvons rajouter d'autres jeux pour ceux qui aiment les défis, sinon le programme est assez complet et nous pensons avoir vérifier chaque possible erreurs et il n'y est plus censer en avoir.
+
+Ce projet a été réaliser en collobaration avec docXaline et BriacPetiaux.
