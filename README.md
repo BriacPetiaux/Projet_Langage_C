@@ -8,5 +8,8 @@ Les instructions d'utilisation pour les joueurs: Pour bien démarrer le jeu il f
 Des informations pour les développeurs souhaitant contribuer au projet: Nous pouvons rajouter d'autres jeux pour ceux qui aiment les défis, sinon le programme est assez complet et nous pensons avoir vérifier chaque possible erreurs et il n'y est plus censer en avoir.
 
 Arborescence: 
+-output
+|----scores.txt
+-Projet.c
 
 Ce projet a été réaliser en collobaration avec docXaline et BriacPetiaux.
